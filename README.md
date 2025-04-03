@@ -44,6 +44,9 @@ LLMs are a kind of deep neural network. They have been demonstrated to embed kno
 
 # METHODOLOGY
 Render the input as a distilled list of succinct statements, assertions, associations, concepts, analogies, and metaphors. The idea is to capture as much, conceptually, as possible but with as few words as possible. Write it in a way that makes sense to you, as the future audience will be another language model, not a human. Use complete sentences.
+
+# INPUT
+{{User mujst insert input here}}
 ```
 
 ## SPR Decompressor
